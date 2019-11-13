@@ -9,4 +9,4 @@ then run `python MainRun.py`
 
 <hr>
 
-<img src="flowchart.jpg">
+<img src="flowchart.png">
